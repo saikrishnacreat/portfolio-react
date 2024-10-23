@@ -72,7 +72,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Hyderabad, TG ",
-  phoneNo: "+91 6281316738 ",
+  address: "Hyderabad ",
+  phoneNo: " Telangana ",
   email: "saikrishnaask191@gmail.com",
 };
